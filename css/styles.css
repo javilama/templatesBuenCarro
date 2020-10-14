@@ -1,0 +1,70 @@
+#head{
+  height: 500px;
+    background-image: url('../assets/img/misterious_car.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    opacity: 0.5;
+   /* background-attachment: fixed;*/
+/* background: #FF416C; 
+ background: -webkit-linear-gradient(to right, #FF4B2B, #FF416C);  
+ background: linear-gradient(to right, #FF4B2B, #FF416C);*/
+}
+#navbarItems a{
+	font-size: medium;
+
+
+}
+#about{
+
+	color: white;
+}
+#carImg{
+
+	height: 350px;
+	width: 60%;
+
+
+}
+#carImg: hover{
+	filter: opacity(1.5);
+}
+#section1 p{
+
+font-size: small;
+	
+}
+#section2{
+	
+	background-image: url('../assets/img/car.jpg');
+  /*  background-repeat: no-repeat;*/
+    background-size: 100%;
+    background-position:center;
+    height: 150px;
+}
+#section2 h6{
+
+	color: white;
+}
+#section2 h4{
+
+	color: white;
+}
+#Testimonial img{
+    height: 200px;
+}
+#card{
+
+	height: 100px;
+
+}
+#servSection{
+	background: #FBF5EF;
+}
+#bocadillo{
+
+
+	height: 70px
+
+    
+}
+
